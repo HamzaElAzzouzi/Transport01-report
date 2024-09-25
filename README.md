@@ -4,7 +4,7 @@ Welcome to the issue reporting repository for the Zone01 Seat Reservation applic
 # 🎯 Purpose
 The purpose of this repository is to:
 
--📍 Provide a centralized location for reporting issues
+- 📍 Provide a centralized location for reporting issues
 - 📊 Track the progress of bug fixes and feature implementations
 - 💬 Facilitate communication between users and developers
 - 📚 Maintain a record of the application's evolution and improvements
